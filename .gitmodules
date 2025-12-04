@@ -1,0 +1,6 @@
+[submodule "icons/phosphor-icons"]
+	path = icons/phosphor-icons
+	url = https://github.com/phosphor-icons/core.git
+[submodule "icons/simple-icons"]
+	path = icons/simple-icons
+	url = https://github.com/simple-icons/simple-icons.git
